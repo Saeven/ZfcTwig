@@ -1,4 +1,4 @@
-# ZfcTwig Module for Laminas/Zend Framework [![Build Status](https://travis-ci.org/kokspflanze/ZfcTwig.svg?branch=master)](https://travis-ci.org/kokspflanze/ZfcTwig)
+# ZfcTwig Module for Laminas [![Build Status](https://travis-ci.org/kokspflanze/ZfcTwig.svg?branch=master)](https://travis-ci.org/kokspflanze/ZfcTwig)
 
 ZfcTwig is a module that integrates the [Twig](http://twig.sensiolabs.org) templating engine with
 [Laminas](https://getlaminas.org/) / [Zend Framework](https://framework.zend.com).
@@ -91,7 +91,7 @@ function.
 {% set url = ( url('my/custom/route') ) %}
 ```
 
-# Examples
+## Examples
 
 Example .twig files for the skeleton application can be found in the [examples](https://github.com/kokspflanze/ZfcTwig/tree/master/examples)
 folder.
